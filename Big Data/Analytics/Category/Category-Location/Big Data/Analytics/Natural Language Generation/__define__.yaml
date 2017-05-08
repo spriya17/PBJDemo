@@ -1,0 +1,9 @@
+id:
+  5JpFeswhtBzUSd
+
+name:
+  Natural Language Generation
+
+description:  |
+  Natural language generation products focus on producing written or spoken human language from structured data.  For example, if you were to press a button on your smartphone that invokes a virtual assistant and say: "What is the weather going to be like this afternoon", natural language processing would derive the data necessary from that question to be able to query a structured data set containing weather data.  Once this data was retrieved, natural language generation would then be able to produce a written or spoken answer such as: "It is going to drizzle on and off today with it turning into a steady heavy rain starting at around 4pm this afternoon.  It will be around 45-50 degrees and drop down to 39 in the evening."
+
