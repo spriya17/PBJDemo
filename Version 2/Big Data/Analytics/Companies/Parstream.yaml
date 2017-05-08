@@ -1,0 +1,30 @@
+id:
+	Oh9lHfeAhtj
+
+name:
+  Parstream
+
+description:    |
+
+    Cisco acquired Parstream in Nov 2015. Cisco Systems is an American technology conglomerate that develops, manufactures, and sells networking hardware, telecommunications equipment, and other high-technology services and products.
+    
+    Cisco ParStream allows you to Process, Analyze, and Store Data at the Edge. Network-connected devices and sensors continue to proliferate, especially within Internet of Things (IoT) and distribute environments. Now, it's more important than ever to get your data fast, no matter where it is on the network. Cisco ParStream helps you do that.
+    
+    With low infrastructure and operating costs, ParStream handles massive volumes of high-velocity data to give you real-time analytics at the edge.
+    
+    At 20 times the speed of the average database, ParStream provides fast, accurate performance, and has a distinctly small footprint. The solution uses complex compression and indexing capabilities to help you access data faster, and at scale.
+    
+    Connecting streaming data with historic data gives organizations better insight. It turns data into strategic business information that can truly transform your operations. With ParStream, you can:
+
+    + Execute IoT applications twice as fast with fewer resources, decreasing time and market
+    + Perform analytics at the edge and reduce network traffic, latency, and reporting delays
+    + Implement analytics at the source, giving you new insights that can improve operations and processes
+    + Boost profits by analyzing massive volumes of customer and operational data
+    + Reduce memory requirements with highly paralleled querying in its compressed form
+    + Scale to manage widely dispersed sources of data in hyper-distributed environments
+    + Analyze IoT data continuously as it's being loaded, and perform queries spontaneously
+
+
+url:
+  https://www.parstream.com/
+

@@ -1,0 +1,24 @@
+id:
+	cvEjSBv2qtLT
+
+name:
+  Yhat
+
+description:    |
+  
+  Yhat provides the industry-leading data science platform for developing, deploying, and managing real-time decision APIs.
+	
+	Yhat eliminates painful IT obstacles involved in cloud-based data science like server setup and config. With Yhat, data scientists can transform static insights into production-ready decision making APIs that integrate seamlessly with any customer- or employee-facing app. Yhat also created Rodeo, an open source integrated development environment (IDE) for Python.
+
+	Yhat products consist of:
+
+	+ Scienceops
+	+ Rodeo
+
+	Scienceops is a platform for productionizing, scaling, and monitoring predictive models in production applications. ScienceOps can be installed in a VPC, on-premise or in a hosted Yhat environment. With ScienceOps your models and your data stay secure on your servers, behind your firewall, and within your data center. It also allows data scientists to deploy and update predictive models rapidly and reliably - without IT or DevOps.
+
+	Rodeo is a development environment built for analyzing data that runs natively on your laptop. It's also a development environment that's lightweight and intuitive, yet customizable to its core - your own personal home base for exploring and interpreting data. Rodeo makes it easy to explore what you create. Inspect, interact with, and compare data frames, plots and more. Rodeo makes it easy to explore what you create. Inspect, interact with, and compare data frames, plots and more.
+
+url:
+  https://www.yhat.com/
+
