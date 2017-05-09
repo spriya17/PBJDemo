@@ -1,24 +1,11 @@
 id:
-	cKcNlNEN6tDT
+    vrVcsdxiyaaTGC
 
 name:
-  Clearstory
+    Clearstory
 
-description:    |
+description: |
+    n/a
 
-    ClearStory Data is bringing Data Intelligence to everyone to accelerate the way business leaders get answers from more data, on a faster cycle, across any number of disparate data sources. ClearStory Data's solution simplifies data access to internal and external sources, automates data harmonization via Intelligent Data Harmonization across disparate data, enables fast, collaborative exploration, and reduces business wait times for insights via Intractive, Collaborative StoryBoards. 
-    
-    ClearStory Data lets business users be more self-reliant on reaching richer, faster insights, Its end-to-end solution includes an integrated Spark-based data processing platform and an incredibly simple user application model for business consumption of insights.
-    
-    Some of the features of ClearStory's solution include:
-
-    + Interactive Data Stories. Question more, uncover more, discover new data, visualize and interact with new insights. Data Stories converge disparate data fast and enable interactive insights. Stories connect to internal and external data sources, and update as your data updates, so your insights are never stale.
-    + Automated Data Prep & Data Blending. Automate data prep and data blending with ClearStory's "Data Inference" and "Data Harmonization" engine. Reach insights fast by eliminating tedious data prep, ETL, and data modeling.
-    + Faster Visual Discovery & Business Insights. See data more quickly and accurately with smart visualizations that allow for deep discovery and diagnosis. ClearStory introspects the data you select and automatically translates the shape and semantics of your data into smart, best-fit visualizations that are immediately viewable in Data Stories allowing faster, deeper discovery and analysis.
-    + Active Collaboration for Faster Consistent Decisions. ClearStory's breakthrough in collaboration lets users capture discussions on evolving insights, ask questions, annotate visualizations and share business intuition in a consistent way to speed conclusions.
-    + Interactive and Collaborative StoryBoards. Present interactive insights in a living storyline. StoryBoards provide insights from one or more analysis in a storyline. Let key stakeholders see insights, see narratives in-context, ask questions, and reach answers collaboratively.
-
-  
 url:
-  http://www.clearstorydata.com/
-
+    

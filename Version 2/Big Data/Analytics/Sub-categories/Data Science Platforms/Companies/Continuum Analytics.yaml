@@ -1,24 +1,11 @@
 id:
-	bO9A98h8lbqc
+    AU5AGXPjql2oEJ
 
 name:
-  Continuum Analytics
+    Continuum Analytics
 
-description:    |
+description: |
+    n/a
 
-    Continuum Analytics builds technologies that enable analysts to answer questions from the data all around us. By engaging open source communities, they are building useful tools that are sustainable and widely used. By focusing on collaborative technologies, they give analysts better medium to communicate their decision process and focus their stakeholders on the details that matter most. In creating a platform for distributing that expertise, Continuum Analytics enables teams to quickly share insights and evolve solutions most critical to their success.
-    
-    Continuum Analytics' Anaconda is the leading Open Data Science platform powered by Python. It puts superpowers into the hands of people who are changing the world. Anaconda is trusted by leading businesses worldwide and across industries - financial services, government, health and life sciences, technology, retail & CPG, oil & gas - to solve the world's most challenging problems. Anaconda helps data science teams discover, analyze and collaborate by connecting their curiosity and experience with data.
-    
-    Main segments of Anaconda Platform are:
-
-    + Anaconda Fusion. It brings the power of Open Data Science into Microsoft Excel. With Anaconda Fusion, Excel power users can build predictive models, query Big Data and interactive visualizations, without leaving Excel spreadsheets.
-    + Anaconda Enterprise Notebooks. It easily enables modern data science teams to collaborate making agile data science a reality in a secure environment. Data science assets - packages, environments, notebooks, interactive visualization - can be easily identified, reused and standardized for projects.
-    + Anaconda Scale. It divides and conquers data science workloads easily to take advantage of clusters and deliver cost-effective production results. Effortlessly launch clusters, provision packages and manage distributed computations. 
-    + Anaconda Accelerate. It gives data science teams a way to easily achieve SLAs by optimizing their data science and taking advantage of all your hardware including the latest innovations in multi-cores and GPUs. Anaconda Accelerate makes it easy to identify performance bottlenecks with an in-notebook profiler.
-    + Anaconda Repository. It gives data science teams a way to easily reproduce, publish and deploy data science assets. Packages, notebooks and environments can be discovered and shared to increase team productivity and ensure consistency. These assets are governed and protected behind enterprise firewall versioning and authentication via LDAP and Active Directory.
-
-  
 url:
-  https://www.continuum.io/
-
+    

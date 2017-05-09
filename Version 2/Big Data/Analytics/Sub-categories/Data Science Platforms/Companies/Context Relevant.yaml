@@ -1,25 +1,11 @@
 id:
-	Ow1A1thdUOtc
+    g84NlnvWVGBoEG
 
 name:
-  Context Relevant
+    Context Relevant
 
-description:    |
-
-    Founded in 2012, Context Relevant is a team of engineers, data scientists, and technologists encapsulating machine learning, data science tools, statistical methods and an advanced distributed system into a platform that makes high-speed data analysis accessibility to breadth of industries.
-    
-    The Context Relevant machine learning platform takes the best of open source infrastructure, such as Hadoop and Spark, and ties it together with Context Relevant's proprietary Automated Data Science engine and application environment. The result is a full-stack, production ready platform that enables the rapid creation, testing, and deployment of data science- and predictive analysis-driven intelligent applications. Some of its main features are:
-
-    + Data Preparation. Context Relevant platform uses its own machine learning system, combined with encapsulated data science best practices to automate a significant amount of data cleansing and joining process.
-    + Iterative Modeling. The machine learning platform's iterative modeling capability allows it to rapidly create and test multiple models per second, across massive data sets. This enables the platform to hone in on the most effective model with which to solve given problem.
-    + Human Explanations. Context Relevant applications automatically output human-friendly explanations, allowing these applications to be put in front of end users with varying skill levels and skill sets.
-    + Model Transparency. Context Relevant learning platform outputs transparent, human-readable models into the format of your choice.
-
-    Context Relevant's Cybersecurity Application brings their full Automated Data Science platform to bear on the problem. It adapts in real-time to unique behaviors and characteristics within your enterprise network, surfacing highly-contextualized and automatically-generated Threat Cases to your security operations team. Cybersecurity Application delivers higher value results to your security team, highly contextualized Threat Cases, and earlier detection of breach.
-    
-    Context Relevant's Transaction Fraud Application builds and tests models in real time, which significantly lowers false-positive rates due to more accurate predictions for the normal behavior of your customers. It delivers streaming real-time decisions, significant reduction in false-positive rates, and detection of unknown fraud types.
-  
+description: |
+    n/a
 
 url:
-  https://www.contextrelevant.com/
-
+    

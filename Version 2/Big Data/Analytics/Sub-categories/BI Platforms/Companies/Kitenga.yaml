@@ -1,32 +1,11 @@
 id:
-	ww9R1ZweAbFr
+    gH51JZadYGaEol
 
 name:
-  Kitenga
+    Kitenga
 
-description:    |
-
-    Dell acquired Kitenga in Feb 2013. Dell is an American privately owned multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.
-    
-    Kitenga Analytics Suite is the industry's first big data search and analytics platform to integrate information of all types into easily deployed visualizations. You can easily deploy this fully integrated, configurable, cloud-enabled, software platform in minutes. 
-    
-    With this content mining and analytics solution, you'll transform complex and time-consuming manipulation of web-scale data sources into a fast and intuitive process. You can harvest sentiments from Twitter feeds, blogs, news reports, CRM systems, and other sources, and combine them with demographic and regional data to better understand market traction and opportunities.
-    
-    This insight engine provides you with unrivaled performance and scalability by leveraging next-generation technologies like Hadoop, Lucene/SOLR search, Mahout machine learning, 3D information modeling, and advanced Natural Language Processing.
-    
-    Key features of Kitenga Analytics Suite include:
-
-    + Rich search and visualization engine. Accelerates information retrieval by combining analytics and search in a single, unified environment.
-    + Out-of-the-box extraction and analysis capabilities. Empowers you to pull actionable intelligence from massive amounts of unstructured, semi-structured, and structured data, enhancing operational agility and competitive advantage.
-    + Hadoop support. Uses Hadoop to give you big data scalability.
-    + Functional widgets. Allows you to customize your Kitenga environment for your individual analysis needs.
-    + Open-source search. Indexes complex, faceted metadata.
-    + Language analysis. Performs lemmatization; recognizes parts-of-speech, stop words, and more.
-    + Configurable designer toolkit. Provides sophisticated user-facing search experiences.
-    + Automatic suggestions. Offers suggestions based on extracted metadata.
-    + Customizable, domain-specific analytic ecosystems. Simplifies and supports massive scale ingestion and processing of data.
-
+description: |
+    n/a
 
 url:
-  http://software.dell.com/documents/kitengat-analtyics-datasheet-overview-document-datasheet-18690.pdf
-
+    

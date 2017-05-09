@@ -1,27 +1,11 @@
 id:
-	Oh1AHkzdUhqc
+    vdJSl98iwaSGFs
 
 name:
-  Arcadia Data
+    Arcadia Data
 
-description:    |
+description: |
+    n/a
 
-    Adrcadia Data was founded with the singular mission to connect business users to Hadoop. The Arcadia Converged Analytics Platform unifies visual exploration and back-end data analytics in one integrated enterprise platform that runs natively on the Hadoop cluster. 
-    
-    Arcadia converges the visual, analytics and data layers to provide accelerated access to all of the data stored within Hadoop, and support net-new analytics on granular datasets.
-    
-    Key features of Arcadia Data's solution are:
-
-    + No Coding Required. No need to start by building datamarts/cubes. Go straight into big data with intuitive drag-and drop self-service interface provides exploration and semantic modeling on breadth and depth of all your data.
-    + Connect, Explore, Join. Work with data across multiple sources: Hive, Impala, Postgres, Amazon Redshift, MySQL, Teradata Aster, and more. Join tables and define semantic models on data sets for virtual data marts on data-in-place.
-    + Flexible Visual Builder. Work from a broad set of flexible, customizable visuals, and embed and customize hundreds of D3 Javascript visuals in any browser-based application.
-    + Self-Optimizing Data Store. Arcadia's unique Active Data Store models and tunes data structures continuously, at Hadoop scale. It automatically replaces sub-optimal curated schemas with intent-driven models across a broad range of BI and visualization use cases.
-    + Customization and Embeddablity. Complete control over visual stylization of your own browser-based data applications using a standards-based API for CSS and Javascript extension.
-    + Data Blending Across Sources. In just a few clicks, set up exploratory visuals and use them to create rich navigation-enabled applications.
-    + On-Cluster Security. Native on-cluster security with role-based access control provides security on data in place directly on Hadoop clusters, without sacrificing granular access control down to individual rows and columns.
-    + Advanced Analytics. No coding required to leverage Hadoop-driven on-cluster execution to power advanced visualizations such as granular path analysis, flow and funnel algorithms, behavior-based segmentation and dimension/measure correlations.
-
-  
 url:
-  http://www.arcadiadata.com/
-
+    

@@ -1,25 +1,11 @@
 id:
-	0v01Wtbgntns
+    c9gvC8hiyvaFGs
 
 name:
-  Guavus
+    Guavus
 
-description:    |
-
-    Founded in 2006, Guavus has always been at the forefront of big data analytics innovation. At Guavus, they fundamentally believe that in order for businesses to become truly data-driven enterprises there needs to be a new model for analyzing the massive petabytes of data that are being generated on networks and through sensor devices. A new data fabric that correlates and analyzes the data as it hits the network. By enabling enterprises to analyze data the instant it's captured, Guavus gives businesses the unique ability to be decisive in today's data-driven world.
-    
-    The Guavus Reflex platform was built from the ground up to address the size and velocity of streaming and business data being generated from the world's biggest networks. Guavus Reflex's unique "analyze-first, store-later" model provides customers the ability to collect, correlate and fuse network business and any other operational or external data revealing previously undiscoverable insights in real time. 
-    
-    Guavus has always been at the forefront of big data analytics innovation, leveraging the latest Open Source analytics technologies, including Apache Hadoop, Spark and Yarn at its core, to deliver a carrier-grade, scalable, low-latency, highly distributed platform.
-
-    The Guavus Reflex platform can be deployed on premises, on bare-metal or in a fully virtualized environment and complements traditional business intelligence, data-warehouse and data-lake infrastructure for maximum flexibility.
-
-    The Guavus Reflex platform includes an extensive and reusable set of advanced algorithms such as, base-lining, root cause analysis, anomaly detection, predictive & inference, and correlation & commonalities. When mapped to specific business problems, these algorithms enable more effective and sophisticated predictive modeling and valuable business insights.
-    
-    The Reflex Data Factory layer provides a simple way to interact with the complexity of big data. Through a set of rich APIs the core functions of the Guavus Reflex platform are exposed through this abstraction layer. The Reflex Data Factory taps into the raw flow of data, computing and storage layers, deep analytics enabling the creation of multi-dimensional profiles and enabling rapid, data-driven applications developments.
-    
-    Guavus offers solutions for many industries and applications, including Logistics, Manufacturing, Oil & Gas, Mining, Smart Cities, Smart Metering, etc.
+description: |
+    n/a
 
 url:
-  http://www.guavus.com/
-
+    

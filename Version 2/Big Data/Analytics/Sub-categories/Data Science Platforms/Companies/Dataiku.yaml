@@ -1,24 +1,11 @@
 id:
-	EvE1lKvjqiLY
+    N8sNJ3mWSGaEpJ
 
 name:
-  Dataiku
+    Dataiku
 
-description:    |
+description: |
+    n/a
 
-    Dataiku is guided by the belief that to succeed in the world's rapidly evolving data ecosystem, companies - no matter their industry or size - must continuously re-invent and deliver innovative data products. With this in mind, their mission is to provide all organizations with the technological environment that will enable their teams to effectively dispense the data innovations of tomorrow.
-    
-    Dataiku develops the unique advanced analytics software solution that enables companies to build and deliver their own data products more efficiently. Thanks to a collaborative and team-based user interface for data scientists and beginner analysts, to a unified framework for both development and deployment of data projects and to immediate access to all the features and tools required to design data products from scratch.
-    
-    Key features of Dataiku's solutions include:
-
-    + Collaborative Data Science. Dataiku DSS is the collaborative data science software platform for teams of data scientists, data analysts, and engineers to explore, prototype, build, and deliver their own data products more efficiently.
-    + Code or Click. Use notebooks (R, Python, Scala, Hive, Pig, Spark, etc.) or a customizable drag-and-drop visual interface at any step of the predictive dataflow prototyping process - from wrangling to analysis to modeling.
-    + Prepare & Enrich. Profile the data visually at every step of the analysis. Interactively explore and chart your data using 20+ charts. Prepare, enrich, blend, and clean data using 80+ built-in functions.
-    + Model & Predict. Leverage Machine Learning technologies in a visual UI. Build and optimize models in Python or R and integrate any external ML library code APIs. Get instant visual and statistical feedback on model performance.
-    + Deploy & Run. Bundle your whole workflow as a single deployable package for real-time predictions with Dataiku's REST API. Monitor your live data in-production with dashboard and data validation policies. If something's off, get notified and easily roll back to a previous version.
-
-  
 url:
-  https://www.dataiku.com/
-
+    

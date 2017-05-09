@@ -1,28 +1,11 @@
 id:
-	OhHU9IFelwFT
+    a9VcCchiyaaGGs
 
 name:
-  Looker
+    Looker
 
-description:    |
-
-    Looker is an inventive software company that's pioneering the next generation of business intelligence (BI). They believe that businesses can only thrive when data is consistently defined and easily accessible across the entire organization.
-    
-    Looker's web-based platform powers the work of data analysts while fueling (and fulfilling) the business user's curiosity. Looker is creating true discovery-driven businesses and unlocking the value of their data, one customer at a time. Looker brings data analysts and business teams together by making it easy for everyone to find, explore and understand the data that drives their business. Looker hires the best and brightest talent to build the best analytics platform for data-driven companies.
-    
-    Looker has harnessed the power of SQL to create a uniquely powerful data analytics platform that helps companies get real value from their data. Now anyone can ask sophisticated questions of the data using familiar business terms.
-    
-    Data analysts get knowledge of the data out of their heads and into LookML, Looker's simple yet powerful data modeling language. Define business metrics (e.g. lifetime customer value, conversion rate) and explain how tables relate to each other once, and then let Looker write the right SQL to answer any data explorers' questions.
-    
-    Make data beautiful. Visualizations help you tell a complete story with data. Create easy-to-read reports and beautiful dashboards that allow users to drill in and keep exploring. Easily share data-rich visualizations anytime - from any device.
-    
-    Looker enables you to build a data culture. When the whole company has reliable, trustworthy answers - and analysts are no longer a bottleneck - everyone can answer their own questions and make more informed, data-driven decisions.
-    
-    Looker's embedded solution, Powered by Looker, allows companies to rapidly implement analytic products for their customers. Powered by Looker offers many ways to embed analytics - from displaying a single chart, surfacing a set of interactive dashboards, or creating a full, white-labeled version of the Looker platform.
-    
-    Looker Blocks make it easy for any business to start analyzing data faster. Reusable and modular, each Looker Block is templatized code - created by the data analysts at Looker - that can be used to quickly build your data model on the Looker data platform in a way that is completely customized to your business needs.
-  
+description: |
+    n/a
 
 url:
-  http://www.looker.com/
-
+    

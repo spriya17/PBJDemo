@@ -1,43 +1,11 @@
 id:
-	wb9R9Jb8AOtc
+    gH5gJJfFql7oEJ
 
 name:
-  Mode Analytics
+    Mode Analytics
 
-description:    |
-  
-  Mode is an analytics platform designed to help data analysts and data scientists analyze, visualize, and share data.
-	
-	Mode's collaborative analytics platform that brings your analytics workflow together from start to finish. Whether it's building a research tool for your sales team, exploring marketing performance, or providing a/b test recommendations to a PM, Mode makes data more accessible to your entire organization.
-
-	Mode is the fastest path to data-driven decisions.
-
-	With Mode analytics platform you can:
-
-	- Write, save, and share SQL queries
-	- Keep complex, iterative data explorations organized
-	- Stay in the know on projects other analysts are tackling.
-
-	Mode as an analytics platform allows you to:
-
-	- Tightly integrated SQL, Python, and reporting tools give you the power and flexibility to answer any question and deliver meaningful recommendations.
-	- Collaborate and Access the source of truth for your company's analytical work, it helps analysts and business partners move in lock-step toward impactful decisions.
-	- Just connect your database and start exploring. Mode makes sharing easy, empowers others, and free analysts from meticulous data model maintenance.
-
-	Mode analytics features include:
-
-	- Overview
-	- SQL
-	- Python
-	- Reporting
-	- Embedded Analytics
-
-	With some of Mode analytics features you can:
-
-	- Write queries and build charts. Keep every step of your data exploration tied together to decrease cycle time and ship analysis faster.
-	- Pass SQL results into a Python notebook instantly. Share notebooks easily and present work that doesn't force others to wade through code.
-	- Build interactive reports that open up data to your team. Save hours by empowering coworkers to update analysis on their own at any time.
+description: |
+    n/a
 
 url:
-  https://modeanalytics.com/
-
+    

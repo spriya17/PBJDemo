@@ -1,31 +1,11 @@
 id:
-	OO9A18UbET
+    2wAFOFJRcrVdyj
 
 name:
-  Palantir
+    Palantir
 
-description:    |
-
-    Palantir makes products for human-driven analysis of real-world data. They're focused on creating the world's best user experience for working with data, one that empowers people to ask and answer complex questions without requiring them to master querying languages, statistical modeling, or the command line. To achieve this, Palantir builds platforms for integration, managing, and securing data on top of which they layer application for fully interactive human-driven, machine-assisted analysis.
-    
-    Palantir Gotham platform comprises a suite of capabilities for integrating many different data sources for secure, collaborative analysis. The platform serves as an enterprise knowledgebase, containing the full record of an organization's collective analysis. Palantir Gotham's benefits and features include:
-
-    + Flexible Modeling. Instead of rigid rows and columns, Palantir Gotham models data as a flexibly specified graph of objects and relationships - real-world entities like "people" and "organizations," their relevant features, and the connections between them.
-    + Knowledge Management. All integrated data is stores in Palantir Gotham's Revisioning Database. The RevDB tracks every change made to an object, whether these changes originate in the source data or are made by users.
-    + Privacy and Security Control. Privacy-protective capabilities are built into the platform's very architecture, which is designed to support precision data handling, multi-level security, and complete audibility.
-    + Collaboration. The Revisioning Database and Palantir Gotham's Nexus Peering technology enables multiple users, within and across organizations, to seamlessly, securely, collaboratively analyze the same data.
-    + Extensibility Customizability, and APIs. The Palantir Gotham platform is designed to be extensible at every layer of the stack.
-    + Scale. The platform handles petabyte-scale data through a combination of scalable architecture and federated data storage.
-
-    Palantir Metropolis platform is ideal for large-scale quantitative investigations. Palantir Metropolis integrates across multiple sources of data, bringing together disparate information into a unified quantitative analysis environment. On the back-end, the Palantir Metropolis platform comprises a suite of capabilities for integrating tabular data from many different sources into coherent models, performing complex computations over models, and sharing and iterating on analytics products. Main features include:
-
-    + Data Integration. The platform fuses data from multiple sources into a unified presentation called a model.
-    + Metrics. Metrics composite, aggregate, transform, compare, and perform calculations over models.
-    + Data Modeling. In Palantir Metropolis, data models are the basic building blocks of analysis. 
-    + Iteration and Collaboration. Analytic products created within the Palantir Metropolis front-end applications are stored as units of sharable, linkable, recombinant analysis called documents.
-
-  
+description: |
+    n/a
 
 url:
-  https://www.palantir.com/
-
+    

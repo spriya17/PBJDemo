@@ -1,34 +1,11 @@
 id:
-	hb9AHBOdRwtr
+    AH5AGVeWqJaooG
 
 name:
-  Plotly
+    Plotly
 
-description:    |
-  
-  Plotly is the modern platform for agile business intelligence and data science.
-
-	Plotly, also known by its URL, Plot.ly, is an online analytics and data visualization tool headquartered in Montreal, Quebec. Plotly provides online graphing, analytics, and statistics tools for individuals and collaboration, as well as scientific graphing libraries for Python, R, MATLAB, Perl, Julia, Arduino, and REST. Plotly was built using Python and the Django framework, with a front end using JavaScript and the visualization library D3.js, HTML and CSS. Files are hosted on Amazon S3.
-
-	Plotly offers six main products:
-
-	+ Plot.ly has a graphical user interface for importing and analyzing data into a grid and using stats tools. Graphs can be embedded or downloaded. Mainly used to make creating graphs faster and more efficient.
-	+ API libraries for Python, R, MATLAB, Node.js, Julia, and Arduino and a REST API. Plotly can also be used to style interactive graphs with IPython.
-	+ Figure Converters which convert matplotlib, ggplot2, and IGOR Pro graphs into interactive, online graphs.
-	+ Plotly Apps for Google Chrome.
-	+ Plotly.js is an open source JavaScript library for creating graphs and dashboards.
-	+ Plotly Enterprise an on-premises installation of Plotly.
-
-	With Plotly you can:
-	
-  + Import a copy and paste data from your files, Dropbox, and Google Drive.
-  + Analyze your data with fits, functions, stats, and more.
-  + Visualize your data with beautiful graphs.
-  + Collaborate by sharing projects with your team.
-  + Code with Plotly, by using their APIs (Python, R, MATLAB, Julia, Perl, REST) or Python Shell.
-  + Share your graphs online, in your presentations and papers, or by embedding them.
-
+description: |
+    n/a
 
 url:
-  https://plot.ly/
-
+    

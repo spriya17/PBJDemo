@@ -1,25 +1,11 @@
 id:
-	Evcjr791GiDY
+    1U4NlonWSl7opl
 
 name:
-  DataRobot
+    DataRobot
 
-description:    |
-
-    DataRobot offers a machine learning platform for data scientists or all skill levels to build and deploy accurate predictive models in a fraction of the time it used to take. The technology addresses the critical shortage of data scientists by changing the speed and economics of predictive analytics.
-    
-    The DataRobot platform uses massively parallel processing to train and evaluate 1000's of model sin R, Python, Spark MLlib, H2O and other open source libraries. It searches through millions of possible combinations of algorithms, pre-processing steps, features, transformations and tuning parameters to deliver the best models for your dataset and prediction target.
-    
-    The ability to truly democratize the process is perhaps the most important element of any enterprise machine learning platform. DataRobot automates the entire modeling lifecycle, enabling users to quickly and easily build highly accurate predictive models. The only ingredients needed are curiosity and data - coding and machine learning skills are completely optional! Some of the key features of DataRobot Platform solution are:
-
-    + Accuracy. DataRobot automatically searches through millions of combinations of algorithms, data preprocessing steps, transformations, features, and tuning parameters for the best machine learning model for your data. Each model is unique - fine-tuned for the specific dataset and prediction target.
-    + Speed. DataRobot features a massively parallel modeling engine that can scale to hundreds or even thousands of powerful servers to explore, build and tune machine learning models. The speed and scalability of modeling is limited only by computational resources at DataRobot's disposal.
-    + Ease-of-Use. The intuitive web-based interface allows anyone to interact with a very powerful platform, regardless of skill-level and machine learning experience. Users can drag-and-drop then let DataRobot do all the work or they can write their own models for evaluation by the platform.
-    + Ecosystem. Keeping up with the growing ecosystem of machine learning algorithms has never been this easy. DataRobot is constantly expanding its vast set of diverse, best-in-class algorithms from R, Python, H2O, Spark, and other sources, giving users the best set of analytics tools for predictive challenges.
-
-    DataRobot's solutions are applicable in many industries including Insurance, Banking, Healthcare, FinTech, Energy, and others. Some of the use cases are drug delivery optimization, life insurance underwriting for impaired life customers, disease propensity, modeling ICU occupancy, finding new oil and gas sources, etc.
-  
+description: |
+    n/a
 
 url:
-  http://www.datarobot.com/
-
+    

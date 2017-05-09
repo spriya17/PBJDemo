@@ -1,28 +1,11 @@
 id:
-	hhHRHniAwtr
+    adVvsxvLyacFTC
 
 name:
-  Datameer
+    Datameer
 
-description:    |
+description: |
+    n/a
 
-    Datameer makes big data analytics easy for everyone. The entire process of data integration, preparation, analytics and visualization is self-service. Hundreds of customers, including CIOs, CMOs, CTOs, doctors, scientists, law enforcement officials, and even Olympic athletes all rely on Datameer to help them get from raw data to insight faster than ever.
-    
-    Datameer combines Hadoop's unlimited storage and compute power with a common spreadsheet interface and powerful functionality, quickly transforming businesses into agile, data-driven organizations.
-    
-    Datameer was architected with the future in mind. As the big data landscape continues to evolve, their open architecture means your investment is protected as new systems and standards are introduced. Datameer is built from the ground up to take advantage of the unique analytics and schema-on-read processing power of Hadoop. 
-    
-    Datameer is a good big data citizen, sharing your Hadoop environment with other ecosystem components, interoperating with the full platform and its native APIs. Datameer's big data architecture is built on top of a thin micro kernel foundation, with a collection of modules and delivering unique functionality. It's extremely flexible, extendable and robust.
-    
-    Some of the key features of Datameer include:
-
-    + Get Any Data In - Easily. Getting your data into Datameer is as simple as picking your data store from a drop-down menu of 70+ common sources and selecting how - and when - you want to pull your data.
-    + Data Preparation Done Right. With traditional ETL, data preparation is a section of the assembly line. In Datameer, prep and analysis are iterative and complimentary, so your data preparation tasks are driven by your analyses, and vice versa.
-    + Data Analytics Made Point-and-Click. From simple transforms to complex joins and text mining analytics. Datameer's spreadsheet user interface and 270+ point-and-click analytic functions means instant gratification in your data discovery process.
-    + Big Data Visualization for Storytelling. Telling the story of your analysis is easy in Datameer's WYSIWYG Business Infographic Designer. Instead of being constrained to traditional dashboards, Datameer provides you with a blank canvas to design beautiful infographics or reports that are consumable on any device and will automatically update every time your data updates.
-    + Data Management. Robust, enterprise-grade data management capabilities are given. Flexible integration points makes managing data flow dependencies within your organization easy.
-
-  
 url:
-  http://www.datameer.com/
-
+    

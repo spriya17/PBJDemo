@@ -1,49 +1,11 @@
 id:
-	hO9A1v8KUOtT
+    1U5NGB8FSl7pEl
 
 name:
-  Treparel
+    Treparel
 
-description:	|
-
-  Treparel (acronym for Trends, Patterns and Relations) is a Netherlands-based company that specializes in finding meaning, value and answers to complex questions, in huge masses of data ('Big data'). They use data visualization and analytics to help businesses "see" and understand the trends and patterns in their own data. Treparel analytics is applicable to almost any data or text-mining industry, including commerce, pharmacy and patenting.
-
-	The Knowledge Mapping and Exploration (KMX) platform is a suite of integrated tools that allow users to run complex data searches and analytics using complex data analytic algorithms. Patent visualization tools uses text mining technology to enable users to perform classifications on huge amounts of database entries, for example to check whether a similar patent already exists. Traditional patent specialists are expensive and the domain knowledge required means that the pool of talent is small.
-
-	Treparel's patent visualization tools aim to automate this process for people who lack specific expertise in IP classification. The tools vary from standalone desktop applications, to cutting-edge IP dashboards running as web-apps. Dashboards are designed to visualize a variety of data formats and offer a number of collaboration and workflow functionalities, including: searching, plotting, data drilling, sharing, alerting, and constructing new derived data sets.
-
-	Treparel acqurre text:
-
-	+ Use the standard file importers for formats like XLS, CSV, XML
-	+ Directly query data using native connections to data providers like OPS, CLAIMS Direct, Customer SOLR, NLM PubMed, PLoS and The Guardian
-
-	Treparel's model and analyze:
-
-	+ Get quick insights through a best-in-class search workflow and automated annotation
-	+ Enhance the discovery process by using dynamic hierarchical views in the search results delivering automated visual clusters of information
-	+ Focus on high-interest subjects with visual filtering
-	+ Discover serendipity: unexpected trends, patterns and relationships
-	+ Quickly categorize the large data by developing and applying your personal classification scheme
-	+ Use brushing to visually train the software with small sample sets for automatic analysis (patent-pending technology)
-
-	Treparel's adapt and output
-
-	+ Display the data sets through advanced visualizations incl. landscapes, document similarity, frequency distribution, classification scores
-	+ Export the data result sets like ranked document lists, labelled lists, enriched data
-	+ Extract terms from documents to build a thesaurus for semantic analysis
-	+ Share the results in a web browser, in a Word file, or as Excel sheet
-	+ Use auto reporting for scheduling to larger group of business users
-
-	Treparel manage and collaborate:
-
-	+ Cross validate by measuring the precision and recall of the results set
-	+ Improve categorization performance using assisted tuning of document labeling
-	+ Tag, annotate and rank the results to improve relevance
-	+ Collaborate and cooperate with other users by sharing result sets, visualizations and analysis models (KMX Classifiers)
-	+ Balance compute power and batch scheduling for up to millions of documents
-	+ Manage users and schedule automated backups Monitoring and alerting on relevant new documents
-
+description: |
+    n/a
 
 url:
-  http://treparel.com/
-
+    

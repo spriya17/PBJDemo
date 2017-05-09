@@ -1,26 +1,11 @@
 id:
-	Ob9A9Tw8lhFr
+    gU51JccWVl2Eol
 
 name:
-  Sense
+    Sense
 
-description:    |
-  
-  Sense is next-generation cloud platform for data science and big data analytics. Designed for data scientists and data-driven enterprises, Sense provides a collaborative, scalable, and highly extensible platform for data analysis, statistical modeling, visualization, and reporting.
-  
-  Sense allows data scientists to use the powerful data analysis tools they know, including R, Python, JavaScript, Hive, Impala, and more; scale their analysis easily, without managing infrastructure; share and collaborate on data, code, and results; and move data science solutions from exploration to production within a unified platform. Sense provides enterprises and business users an advanced analytics platform that can realize the true power of their data.
-
-	A modern platform for data science and big data analytics. 
-
-	With Sense features you can:
-
-	+ Manage data science and big data analytics projects in one place. Easily collaborate on and share data and analyses on a secure platform. Add collaborators with fine-grained permissions you control.
-	+ Use the most powerful tools, including R, Python, SQL, Spark, and more, to build data science and advanced analytics solutions. Accelerate data science from exploration to deployment.
-	+ Distribute your analytics workloads transparently across a cluster. Accelerate your analysis by up to 10x, without changing your code. Move beyond R and Python with Spark, Redshift, and more.
-	+ Deploy self-service reports and apps that bring data scientists and business teams together. Build analytics pipelines and models that bring deeper insights across your enterprise.
-	+ Schedule and monitor ETL and analytics pipelines spanning R, Python, SQL, Spark, and more. Build an analytics infrastructure that enables analytics without limits.
-	+ Build, track, and deploy predictive models as REST APIs. Avoid reimplementing complex algorithms or data cleaning logic to bring models to production.
+description: |
+    n/a
 
 url:
-  https://sense.io/
-
+    

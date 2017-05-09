@@ -1,29 +1,11 @@
 id:
-	bh1RHgM8Awtc
+    gH5AJBXWSJ2ooJ
 
 name:
-  Sisense
+    Sisense
 
-description:    |
-  
-  Sisense is a business analytics software that covers the full scope of data analysis, from data preparation to visualization - without the need to invest in additional tools or manpower. Even when analyzing big, scattered and complex datasets, Sisense lets you ask new questions and receive answers on-the-spot. Its business intelligence product includes both a back-end powered by in-chip technology that enables non-technical users to join and analyze large data sets from multiple sources, and a front-end for creating visualizations, like dashboards and reports, on any device, including mobile. Sisense introduced an alternative to in-memory technology called In-Chip analytics, designed to maximize the disk, memory and CPU with resulting low latency.
-
-  Sisense unveiled Prism 10X, which allows users to analyze 100 times more data at 10 times the speed of in-memory solutions. The company's In-Chip Analytics technology couples a columnar database with smart algorithms that use the in-chip cache, RAM or disk as needed instead of relying solely on RAM or disk.
-
-  Sisense introduced Crowd Accelerated BI, a technology that allows companies to scale users by providing faster query results as load increases and scale to thousands of simultaneous users on a single box. Each query is broken down to its basic components, which then helps the software decide which data to store on disk and which data to bring to memory. As more queries are catalogued, the software is able to more quickly recognize future similar queries and call up relevant data.
-
-  The company launched Sisense 5, a redesign of Prism which included improvements such e-mail push notifications and the ability to analyze big data over tablets and smartphones.
-
-  Processing data with Sisense's In-Chip technology is 10 times faster than processing it in-memory. Sisense was designed from scratch with a scalable, memory-optimized columnar database that can comfortably handle terabytes of data and dozens of concurrent queries. These features give it extraordinary performance and also makes it easy for non-techies to join data from multiple sources, build interactive dashboards and business intelligence reports, and share it all in one click.
-
-  Sisense features allow you to:
-
-	+ Enhance your own applications with powerful analytics and customer-facing dashboards using our award-winning technology, extensive SDK and easy API access. 
-	+ Ask any question and get immediate answers without going back to the drawing board for each new query.
-	+ Be taken from data integration to visualization with a single BI solution, eliminating the need to use additional tools.
-
-    Sisense is the only BI software vendor that doesn't use sample data. it offers a full proof of concept (POC) on your real data to fulfill an actual business need
+description: |
+    n/a
 
 url:
-  http://www.sisense.com/
-
+    

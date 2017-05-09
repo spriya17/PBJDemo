@@ -1,17 +1,11 @@
 id:
-  hOHA14JdAwqj
+    A94AGXXUjqG7opG
 
 name:
-  Cloud Physics
+    Cloud Physics
 
-description:  |
-  CloudPhysics continually analyzes vSphere environment, tracking changes, projecting trends, and proactively surfacing the hot spots you need to pay attention to now - before they cause problems. They deliver unique, meaningful insights that give vSphere administrators the confidence to act boldly to reduce risk and trim waste, without compromising the safety of your virtual infrastructure or the applications it supports. 
-
-  CloudPhysics is an intuitive, easy-to-use SaaS application that is rooted in a unique operational analytics platform that drives out risk and cost in your infrastructure, especially in problems related to configuration changes.  
-
-  CloudPhysics solves problems associated with change by telling you what changed and when, and analyzing these changes in the context of their relationship to workload behavior. It then identifies operational hazards and hot spots that arise from misconfigurations or misalignment of resources, with the ability to drill down. The result is you can quickly unravel human-related errors associated with bad configurations or change drift, as well as preempt change-related errors by identifying best practice alignment. Your organization benefits from reduced risk as well as greater efficiency through improved productivity and cost savings.
-  
+description: |
+    n/a
 
 url:
-  https://www.cloudphysics.com/
-
+    

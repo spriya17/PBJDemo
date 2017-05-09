@@ -1,23 +1,11 @@
 id:
-	0Kc1SEQ1ZBLs
+    A90gGpbjVlaEpG
 
 name:
-  Domino Data Lab
+    Domino Data Lab
 
-description:    |
+description: |
+    n/a
 
-    Domino is changing how the world's most sophisticated companies do analysis. Domino was founded by three veterans of the finance industry, to help leading organizations develop better medicines, grow more productive crops, build better cars, or simply recommend the best song to play next. Their mission is to help data scientists across industries develop and deploy ideas faster with collaborative, reusable, reproducible analysis.
-    
-    Domino offers a few solutions:
-
-    + Domino Research Hub. The focal point of data science workflow. Share analyses and results through a central web interface; discussions and comments saved with projects and results; easily compare results by looking at differences in code, data, parameters and results side by side; control access with granular permissions and LDAP.
-    + Domino Scalable Compute. Flexible and open research environments, ready at a click. Move compute tasks off desktops onto powerful, centralized hardware; use your team's preferred open source and proprietary tools such as RStudio, Jupyter, Notebooks, Spark, or SAS; run multiple analyses in parallel; schedule jobs for reporting, re-training, or ETL.
-    + Domino Publication Bridge. Productionize results without IT constraints. Publish self-service web forms for non-technical consumers to execute code; host interactive Shiny/Flask apps; deploy models as REST APIs with one click; rollbacks are easy with a full revision history.
-    + Domino Reproducibility Engine. Automatic version control and full reproducibility. All work is saved and versioned automatically; code, data, parameters, results, and discussion - all linked together; environments preserved to provide exact reproducibility; supports models risk management for regulated industries, for example SR 11-7.
-
-    Domino's solutions are applicable in many industries and scenarios, including: Insurance, Asset Management, Pharmaceutical, Automotive/Manufacturing, Technology & Internet Services, Banking, Healthcare, Oil & Gas, Media & Retail, etc.
-  
-  
 url:
-  https://www.dominodatalab.com/
-
+    

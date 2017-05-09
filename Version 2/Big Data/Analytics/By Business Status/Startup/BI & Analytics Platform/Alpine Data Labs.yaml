@@ -1,24 +1,11 @@
 id:
-	bb9R1pM8Rbqc
+    MNxNSmktsbtQq
 
 name:
-  Alpine Data Labs
+    Alpine Data Labs
 
-description:    |
+description: |
+    n/a
 
-    Alpine Data offers advance analytics at enterprise scale.
-    
-    Alpine Data is the provider of Alpine Chorus - the world's most comprehensive advanced analytics platform for Big Data and Hadoop. Leaders in all industries, from financial services to healthcare, use Alpine Data's software and services to enable their employees to build, deploy and consume analytics applications and insights in one collaborative environment.
-    
-    Alpine Chorus' visual programming interface and lightweight deployment process delivers solutions that harness the power of parallel computing platforms and conducts advanced analytics at enterprise scale. Alpine Chorus is highly accessible and easy to use, enabling data experts and business analysts alike to work across organizational barriers and collaboratively utilize advanced analytics to make critical business decisions.
-    
-    Some of the key features of Alpine Chorus are:
-
-    + Deploy Anywhere. Chorus makes model deployment easy by providing turn-key deployment options that can have you up and running within minutes, without needed to go through complex configurations of your data sources and product environments. Chorus can be readily deployed on either on-premise or cloud environments and supports not only the typical Hadoop distributions, but also AWS Elastic MapReduce (EMR). Chorus easily leverages data residing in RedShift or MySQL instances - sourcing and syncing data to and from S3.
-    + Performance & Scalability. Chorus' in-cluster approach to compute makes the platform highly performant and scalable. Data scientists and analysts can run algorithms at scale without moving any data or optimizing their algorithms based on complicated database logic. Chorus utilizes parallel compute clusters to run analytics efficiently. The Parallel Workflow Engine optimizes analytics workflow based on whether the environment is Hadoop or in-database, taking advantage of MapReduce, Spark, or SQL where it is appropriate.
-    + Enterprise Security. Chorus leverages the latest big data security technologies to make sure your data is treated with the highest level of security. Chorus can be deployed easily to interact with secured clusters, enabling data scientists to perform advanced analytics using key technologies such as Hive and Spark, while working seamlessly with the data security policies created by IT.
-
-  
 url:
-  http://alpinedata.com/
-
+    

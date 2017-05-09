@@ -1,26 +1,11 @@
 id:
-	bwHl9EJilOqc
+    gH5AGuD8FYlaEpl
 
 name:
-  Kibana
+    Kibana
 
-description:    |
-
-    Elastic is the world's leading software provider for making structured and unstructured data usable in real time for search, logging, security, and analytics use cases. Founded in 2012 by the people behind the Elasticsearch, Kibana, Logstash, and Beats open source projects, Elastic's global community has more than 50,000 members across 45 countries, and since its initial release, Elastic's products have achieved more than 75 million cumulative downloads.
-    
-    Kibana is your window into the Elastic Stack. Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack, so you can do anything from learning why you're getting paged at 2:00 a.m. to understanding the impact rain might have on your quarterly numbers.
-    
-    With Kibana you can Visualize & Explore. A picture is worth a thousand log lines. Kibana gives you the freedom to select the way you give shape to your data. And you don't always have to know what you're looking for. With its interactive visualizations, start with one question and see where it leads. Kibanas features, characteristics and benefits include:
-
-    + Start with the Basics. Kibana core ships with the classics: histograms, line graphs, pie charts, sunbursts, and more. They leverage the full aggregation capabilities of Elasticsearch.
-    + Put Geo Data on Any Map. Leverage Kibana's tile map service to visualize geospatial data, or get creative and visualize custom location data on a schematic of your choosing.
-    + Time Series Is Also on the Menu. Timelion lets you perform advanced time series analysis on your Elasticsearch data. Describe queries, transformations, and visualizations with powerful, easy-to-learn expressions.
-    + Explore Relationships with Graph. Take the relevance capabilities of a search engine, combine them with graph exploration, and uncover the uncommonly common relationships in your Elasticsearch data.
-    + Bring Everyone in on the Goodness. Easily distribute Kibana visualization to your team members, your boss, their boss, your customers, compliance managers, contractors - anyone you like, really.
-    + Secure, Monitor, and Configure the Elastic Stack. With Kibana, the command line is no longer the only way to manage settings or configure X-Pack security features for the Elastic Stack. While Elastic Stack has really excellent APIs, navigating it with Kibana is now more intuitive for broader audience.
-
-  
+description: |
+    n/a
 
 url:
-  https://www.elastic.co/products/kibana
-
+    

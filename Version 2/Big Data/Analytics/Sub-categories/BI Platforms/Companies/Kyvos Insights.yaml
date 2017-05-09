@@ -1,27 +1,11 @@
 id:
-	5vcjWajGtnT
+    NU4NJQLWSGaEoJ
 
 name:
-  Kyvos Insights
+    Kyvos Insights
 
-description:    |
-
-    Kyvos is disrupting the Business Intelligence and Big Data Analytics market. Kyvos has built an unprecedented OLAP-on-Hadoop technology that is massively scalable and responds to queries in record-short time in order of single-digit seconds.
-    
-    Kyvos is helping enterprises leverage their Big Data investments by constantly innovating to address the challenges that they face. Kyvos' Big Data Analytics solution assists them to explore and generate insights from their Big Data, with unprecedented scale and next generation user interface.
-    
-    Some of the features and benefits of Kyvos Data Analytics solution include:
-
-    + Expand big data user base. With Kyvos Insights integrated to major BI tools, the benefits of big data can now be extended to all of your analysts whether their favorite BI tool is Excel, Tableau, or others. Now BI analysts can join the ranks of data scientists to get value from your big data lake.
-    + Analyze at Speed-of-Thought. With patent pending OLAP on Hadoop technology, Kyvos can return most big data queries in sub-seconds. Analysts can now get their answers more quickly without interruptions while waiting for their queries to process.
-    + Detect Micro Insights and Trends. Kyvos technology leverages the distributed storage and processing of data on Hadoop to allow analysts to drill down to the lowest granular level. Analyze all of your data and discover insights and trends that you would not have found before.
-    + Enterprise Grade Security. With more and more analysts, security is at the forefront of your big data success. Kyvos supports strong data security and authentication at the lowest granular level.
-    + Deeper Customer Insights. Improve conversion with more rigorous customer segmentation and demographics analysis. Anticipate customer needs through insights into consumer preferences and behavior. Prevent churn by identifying those customers at risk.
-    + More Efficient Operations. Predict demand across the supply chain by forecasting demand at the store level. Improve post-sales maintenance process by analyzing data on product operations, catch bugs early and boost service quality.
-    + Effective Use of Machine Data. Analyze massive amounts of machine-generated logs and join data across all formats and types. Detect network traffic anomalies and increase cost savings.
-
-  
+description: |
+    n/a
 
 url:
-  http://www.kyvosinsights.com/
-
+    
